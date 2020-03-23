@@ -1,2 +1,0 @@
-# NextGenPrep
-Created with CodeSandbox
